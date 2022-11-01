@@ -6,6 +6,6 @@ int main()
     printf("Enter a no: ");
     scanf("%d",&n);
     for(i=1;i<=n;i++)
-    printf("%d ",i*2);
+    printf("%d ",i*i);
     return 0;
 }
